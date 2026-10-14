@@ -1,7 +1,7 @@
 # Lab4Web - Praktikum 4: CSS Layout
 
-Nama : Raihan Arrasyid Monadika  
-NIM : 312510206  
+Nama : Dimas Noor Fatah
+NIM : 312510203
 Kelas : I251B  
 Mata Kuliah : Pemrograman Web  
 
@@ -106,4 +106,4 @@ Menambahkan dua `<article class="entry">` yang dipisahkan garis pembatas (`<hr c
 <img src="screenshot/kode3.png">  
 <img src="screenshot/kode12lanjutan.png">  
 <img src="screenshot/kode12lanjutan1.png">  
-<img src="screenshot/hasil12.png">  
+<img src="screenshot/hasil12lanjutan1.png">  
